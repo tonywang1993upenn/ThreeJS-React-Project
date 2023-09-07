@@ -34,7 +34,7 @@ const Home = () => {
                     <motion.header className='home-content' {...headContainerAnimation}>
                         <motion.div {...headTextAnimation}>
                             <h1 className='head-text'>
-                                Let's <br className='xl: block hidden' /> DO it.
+                                Design <br className='xl: block hidden' /> Your Shirt.
                             </h1>
                         </motion.div>
 
